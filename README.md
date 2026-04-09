@@ -1,8 +1,11 @@
 # Datathon_project
 #  Crop Yield Analysis | WIT Solapur | Sem VI
-Team Members
-Ishan.Umarjikar(roll no 61) – Data Preprocessing and EDA
-Vivek annaldas(roll no 70) – Model Development, Visualization & Dashboard
+## Team Details
+| Name | Roll No | Role |
+|------|---------|------|
+| Ishan | 61 | Data Wrangler Model Developer,EDA |
+| Vivek | 70 |  Visualizer,Reporter,Dashboard Creator |
+
 
 Problem Statement
 
