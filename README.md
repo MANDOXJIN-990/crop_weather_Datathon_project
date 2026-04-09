@@ -13,3 +13,8 @@ Agricultural productivity depends on selecting the right crop based on soil nutr
 However, farmers often lack data-driven insights for decision-making.
 
 This project aims to analyze soil and weather parameters to recommend the most suitable crop using data analytics techniques.
+
+## Dataset
+- **Source:** Kaggle — Crop Production India with Weather Features
+- **Files:** RangeIndex: Row- 3455336
+-                         Data columns (total 10 columns):10
